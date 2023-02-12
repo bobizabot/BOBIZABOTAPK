@@ -53,9 +53,9 @@ global.ADD_MSG = '*✅ Success add Group*'
 //👇 Your Kick Massage 
 global.KICK_MSG = '*✅ Success Remove from Group*' 
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '```⬇️ جاري تحميل الموسيقى تابعني هنا instagram.com/noureddine_ouafy...```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding Your Song...```'
+global.SONG_UP = '```⬆️ جاري الارسال   instagram.com/noureddine_ouafy...```'
 //👇 212 Number block
 global.NUMBER_212_BLOCK = 'false'
 //👇 Menu imoji 
