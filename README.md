@@ -5,7 +5,7 @@
 <img src="https://telegra.ph/file/c0c8a7440635f381fe098.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Queen+Nilu+Whatsapp+Multidevice+Bot+;Created+By+Janiya" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=BOBIZA+BOT+Whatsapp+Multidevice+Bot+;By+NOUREDDINE+OUAFY" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Janiya-blue.svg?style=for-the-badge&logo=github"></a>
