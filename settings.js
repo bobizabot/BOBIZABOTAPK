@@ -14,9 +14,9 @@ global.READ_MASSAGE = 'true'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['212617741471'] 
+global.owner = ['212719448177'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© BOBIZA BOT ²⁰²³'
+global.cap = '© abdo bit ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'on'
 //👇 Inbox massage block PM block
@@ -26,13 +26,13 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'BOBIZABOT' 
+global.botnma =  'abdo bot' 
 //👇 Your name
 global.ownernma =  'instagram.com/noureddine_ouafy' 
 //👇 Sticker package name
-global.packname =  'BOBIZA' 
+global.packname =  'abdo' 
 //👇 Sticker Author Name
-global.author =  '_NOUREDDINE_OUAFY_' 
+global.author =  '_abderrahmane_mekaoui_' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -85,7 +85,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["212617741471"]
+global.NO_BLOCK = ["212719448177"]
 
 
 
@@ -97,9 +97,9 @@ global.NO_BLOCK = ["212617741471"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/c0c8a7440635f381fe098.jpg'
 //other
-global.pemilik = ['212617741471'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['212617741471'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Noureddine Ouafy_' // Your name ඔබේ නම 
+global.pemilik = ['212719448177'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['212719448177'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '_abderrahmane mekaoui_' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
